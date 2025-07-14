@@ -1,0 +1,3 @@
+Install dependencies via pip (especially useful in Google Colab or virtual environments):
+
+pip install qiskit qiskit-aer
