@@ -46,7 +46,7 @@ fG4#wZ@dLk9Q
 
 ---
 
-🧩 Full Features
+##🧩 Full Features
 ✅ Combines simulated quantum randomness with classical randomness
 
 ✅ Adjustable password length (8–24 characters)
