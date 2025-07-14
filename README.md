@@ -46,15 +46,4 @@ fG4#wZ@dLk9Q
 
 ---
 
-##🧩 Full Features
-✅ Combines simulated quantum randomness with classical randomness
-
-✅ Adjustable password length (8–24 characters)
-
-✅ Uses secure characters: letters, digits, and special symbols
-
-✅ Fast and efficient using simulation (no hardware required)
-
-✅ Modular codebase, easy to integrate into other tools
-
 
